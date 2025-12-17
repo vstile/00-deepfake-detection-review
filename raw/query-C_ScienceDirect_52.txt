@@ -623,3 +623,15 @@ https://doi.org/10.1016/j.procs.2023.01.283.
 (https://www.sciencedirect.com/science/article/pii/S1877050923002910)
 Abstract: Voice cloning methods have been used in a range of ways, from customized speech interfaces for marketing to video games. Current voice cloning systems are smart enough to learn speech characteristics from a few samples and produce perceptually unrecognizable speech. These systems pose new protection and privacy risks to voice-driven interfaces. Fake audio has been used for malicious purposes and is difficult to classify what is real and fake during a digital forensic investigation. This paper reviews the issue of deep-fake audio classification and evaluates the current methods of deep-fake audio detection for forensic investigation. Audio file features were extracted and visually presented using MFCC, Mel-spectrum, Chromagram, and spectrogram representations to further study the differences. Harnessing the different deep learning techniques from existing literature were compared using five iterative tests to determine the mean accuracy and the effects thereof. The results showed a Custom Architecture gave better results for the Chromagram, Spectrogram, and Me-Spectrum images and the VGG-16 architecture gave the best results for the MFCC image feature. This paper contributes to further assisting forensic investigators in differentiating between synthetic and real voices.
 Keywords: Deepfake audio; digital investigation; CNN; voice cloning
+
+Ruben Tolosana, Ruben Vera-Rodriguez, Julian Fierrez, Aythami Morales, Javier Ortega-Garcia,
+Deepfakes and beyond: A Survey of face manipulation and fake detection,
+Information Fusion,
+Volume 64,
+2020,
+Pages 131-148,
+ISSN 1566-2535,
+https://doi.org/10.1016/j.inffus.2020.06.014.
+(https://www.sciencedirect.com/science/article/pii/S1566253520303110)
+Abstract: The free access to large-scale public databases, together with the fast progress of deep learning techniques, in particular Generative Adversarial Networks, have led to the generation of very realistic fake content with its corresponding implications towards society in this era of fake news. This survey provides a thorough review of techniques for manipulating face images including DeepFake methods, and methods to detect such manipulations. In particular, four types of facial manipulation are reviewed: i) entire face synthesis, ii) identity swap (DeepFakes), iii) attribute manipulation, and iv) expression swap. For each manipulation group, we provide details regarding manipulation techniques, existing public databases, and key benchmarks for technology evaluation of fake detection methods, including a summary of results from those evaluations. Among all the aspects discussed in the survey, we pay special attention to the latest generation of DeepFakes, highlighting its improvements and challenges for fake detection. In addition to the survey information, we also discuss open issues and future trends that should be considered to advance in the field.
+Keywords: Fake news; Deepfakes; Media forensics; Face manipulation; Face recognition; Benchmark; Databases
