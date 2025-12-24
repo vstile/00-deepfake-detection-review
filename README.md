@@ -211,10 +211,17 @@ GitHub repository, https://github.com/vstile/deepfake-detection-review
 Short attribution text you can include in derivative works:
 
 ```
-This material reuses data and methods from:
+This material reuses data and methods from this work:
 Stile, V. (2025). Deepfake Detection – Literature Review, Queries Data.
-GitHub repository, https://github.com/vstile/deepfake-detection-review
-Licensed under CC BY 4.0.
+GitHub repository, https://github.com/vstile/00-deepfake-detection-review
+© 2025 Vittorio Stile - Licensed under CC BY 4.0.
+```
+
+or
+```
+This material reuses data and methods from this Ph.D. Dissertation:
+Stile, V. (2025). “AI-generated Deepfakes: A Study on Attribute-Aware Detection, Bias Analysis, and Generalisation” Ph.D. dissertation, Universitas Mercatorum, Roma.
+© 2025 Vittorio Stile - Licensed under CC BY 4.0.
 ```
 
 ---
